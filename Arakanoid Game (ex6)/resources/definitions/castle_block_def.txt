@@ -1,0 +1,7 @@
+default height:40 width:70 stroke:color(black) hit_points:1
+
+# block definitions
+bdef symbol:s fill:image(block_images/stone.jpg)
+
+# spacers definitions
+sdef symbol:- width:35

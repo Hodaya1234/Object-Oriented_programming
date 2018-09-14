@@ -1,0 +1,22 @@
+START_LEVEL
+level_name:Castle
+ball_velocities:45,500 -45,500
+background:image(background_images/castle.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/castle_block_def.txt
+blocks_start_x:85
+blocks_start_y:35
+row_height:40
+num_blocks:47
+START_BLOCKS
+-
+s-s-s-s-s-s
+s-s-s-s-s-s
+-ssssssss
+sssssssss
+-sssssssss
+sssssssss
+
+END_BLOCKS
+END_LEVEL

@@ -1,0 +1,8 @@
+e:Easy
+definitions/easy_level_definitions.txt
+h:Hard
+definitions/hard_level_definitions.txt
+r:Rick and Morty
+definitions/rm.txt
+c:Castle
+definitions/castle_def.txt

@@ -1,0 +1,5 @@
+#block definitions
+bdef symbol:b width:70 height:40 hit_points:1 fill:image(block_images/rm_block_pic.jpg)
+
+#spacers definitions
+sdef symbol:* width:35

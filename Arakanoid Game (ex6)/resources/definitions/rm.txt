@@ -1,0 +1,16 @@
+START_LEVEL
+level_name:Rick and Morty
+ball_velocities:40,400 -40,400
+background:image(background_images/RickMorty_green.jpg)
+paddle_speed:700
+paddle_width:140
+block_definitions:definitions/rm_block.txt
+blocks_start_x:120
+blocks_start_y:230
+row_height:40
+num_blocks:14
+START_BLOCKS
+bbbbbbbb
+*bbbbbbb
+END_BLOCKS
+END_LEVEL
